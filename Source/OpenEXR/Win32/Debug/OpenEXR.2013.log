@@ -1,0 +1,222 @@
+﻿  IexMathFpu.cpp
+  b44ExpLogTable.cpp
+  ImfAcesFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfacesfile.cpp(59): warning C4305: аргумент: усечение из "double" в "float"
+e:\srcs\freeimage\source\openexr\ilmimf\imfacesfile.cpp(426): warning C4305: аргумент: усечение из "double" в "float"
+e:\srcs\freeimage\source\openexr\ilmimf\imfacesfile.cpp(432): warning C4305: аргумент: усечение из "double" в "float"
+  ImfAttribute.cpp
+  ImfB44Compressor.cpp
+  ImfBoxAttribute.cpp
+  ImfChannelList.cpp
+  ImfChannelListAttribute.cpp
+  ImfChromaticities.cpp
+  ImfChromaticitiesAttribute.cpp
+  ImfCompositeDeepScanLine.cpp
+  ImfCompressionAttribute.cpp
+  ImfCompressor.cpp
+  ImfConvert.cpp
+  ImfCRgbaFile.cpp
+  ImfDeepCompositing.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepcompositing.cpp(84): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  ImfDeepFrameBuffer.cpp
+  ImfDeepImageStateAttribute.cpp
+  ImfDeepScanLineInputFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(343): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(504): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(511): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(517): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(518): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(626): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(635): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1471): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1511): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1515): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1716): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1720): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1833): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineinputfile.cpp(1849): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+  ImfDeepScanLineInputPart.cpp
+  Создание кода...
+  Компиляция...
+  ImfDeepScanLineOutputFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(378): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(384): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(696): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "long", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(734): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(758): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(768): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(786): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(974): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "long", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(978): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeepscanlineoutputfile.cpp(1479): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "const unsigned int", возможна потеря данных
+  ImfDeepScanLineOutputPart.cpp
+  ImfDeepTiledInputFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(418): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(438): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(444): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(445): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(493): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(499): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(631): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1021): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "long", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1024): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1495): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1844): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledinputfile.cpp(1855): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+  ImfDeepTiledInputPart.cpp
+  ImfDeepTiledOutputFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(194): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(195): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(554): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(560): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(690): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(689): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(743): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(874): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "long", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(910): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(970): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1000): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1010): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1243): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "long", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1246): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1250): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "::size_t", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdeeptiledoutputfile.cpp(1749): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "const unsigned int", возможна потеря данных
+  ImfDeepTiledOutputPart.cpp
+  ImfDoubleAttribute.cpp
+  ImfDwaCompressor.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(274): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(756): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(785): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(941): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1139): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(1914): warning C4267: +=: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2423): warning C4267: -=: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2435): warning C4018: >: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(2986): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3023): warning C4018: >: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3035): warning C4018: >: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3043): warning C4018: >: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\ilmimf\imfdwacompressor.cpp(3104): warning C4018: >: несоответствие типов со знаком и без знака
+  ImfEnvmap.cpp
+  ImfEnvmapAttribute.cpp
+  ImfFastHuf.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imffasthuf.cpp(153): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imffasthuf.cpp(167): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imffasthuf.cpp(183): warning C4244: =: преобразование "Imath_2_2::Int64" в "unsigned char", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imffasthuf.cpp(186): warning C4244: =: преобразование "Imath_2_2::Int64" в "unsigned char", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imffasthuf.cpp(256): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+  ImfFloatAttribute.cpp
+  ImfFloatVectorAttribute.cpp
+  ImfFrameBuffer.cpp
+  ImfFramesPerSecond.cpp
+  ImfGenericInputFile.cpp
+  ImfGenericOutputFile.cpp
+  ImfHeader.cpp
+  ImfHuf.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(171): warning C4244: =: преобразование "Imath_2_2::Int64" в "char", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(250): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(481): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(550): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(562): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(621): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(679): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(724): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(898): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned char", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(913): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(928): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned char", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfhuf.cpp(955): warning C4244: инициализация: преобразование "Imath_2_2::Int64" в "unsigned char", возможна потеря данных
+  ImfInputFile.cpp
+  Создание кода...
+  Компиляция...
+  ImfInputPart.cpp
+  ImfInputPartData.cpp
+  ImfIntAttribute.cpp
+  ImfIO.cpp
+  ImfKeyCode.cpp
+  ImfKeyCodeAttribute.cpp
+  ImfLineOrderAttribute.cpp
+  ImfLut.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imflut.cpp(156): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imflut.cpp(174): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ImfMatrixAttribute.cpp
+  ImfMisc.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfmisc.cpp(313): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+e:\srcs\freeimage\source\openexr\ilmimf\imfmisc.cpp(708): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ImfMultiPartInputFile.cpp
+  ImfMultiPartOutputFile.cpp
+  ImfMultiView.cpp
+  ImfOpaqueAttribute.cpp
+  ImfOutputFile.cpp
+  ImfOutputPart.cpp
+  ImfOutputPartData.cpp
+  ImfPartType.cpp
+  ImfPizCompressor.cpp
+  ImfPreviewImage.cpp
+  Создание кода...
+  Компиляция...
+  ImfPreviewImageAttribute.cpp
+  ImfPxr24Compressor.cpp
+  ImfRational.cpp
+  ImfRationalAttribute.cpp
+  ImfRgbaFile.cpp
+  ImfRgbaYca.cpp
+  ImfRle.cpp
+  ImfRleCompressor.cpp
+  ImfScanLineInputFile.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imfscanlineinputfile.cpp(1467): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+  ImfStandardAttributes.cpp
+  ImfStdIO.cpp
+  ImfStringAttribute.cpp
+  ImfStringVectorAttribute.cpp
+  ImfSystemSpecific.cpp
+  ImfTestFile.cpp
+  ImfThreading.cpp
+  ImfTileDescriptionAttribute.cpp
+  ImfTiledInputFile.cpp
+  ImfTiledInputPart.cpp
+  ImfTiledMisc.cpp
+  Создание кода...
+  Компиляция...
+  ImfTiledOutputFile.cpp
+  ImfTiledOutputPart.cpp
+  ImfTiledRgbaFile.cpp
+  ImfTileOffsets.cpp
+e:\srcs\freeimage\source\openexr\ilmimf\imftileoffsets.cpp(154): warning C4244: аргумент: преобразование "Imath_2_2::Int64" в "int", возможна потеря данных
+  ImfTimeCode.cpp
+  ImfTimeCodeAttribute.cpp
+  ImfVecAttribute.cpp
+  ImfVersion.cpp
+  ImfWav.cpp
+  ImfZip.cpp
+  ImfZipCompressor.cpp
+  ImathBox.cpp
+  ImathColorAlgo.cpp
+  ImathFun.cpp
+  ImathMatrixAlgo.cpp
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+  e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(254): note: выполняется компиляция ссылки на экземпляр шаблон функции "Imath_2_2::M44d Imath_2_2::procrustesRotationAndTranslation<double>(const Imath_2_2::V3d *,const Imath_2_2::V3d *,const double *,const ::size_t,const bool)"
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+e:\srcs\freeimage\source\openexr\imath\imathmatrixalgo.cpp(205): warning C4018: <: несоответствие типов со знаком и без знака
+  ImathRandom.cpp
+  ImathShear.cpp
+  ImathVec.cpp
+  IexBaseExc.cpp
+  IexThrowErrnoExc.cpp
+  Создание кода...
+  Компиляция...
+  half.cpp
+  IlmThread.cpp
+e:\srcs\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): warning C4297: IlmThread_2_2::Thread::~Thread: ожидается, что функция не будет выдавать исключения, но она это делает
+  e:\srcs\freeimage\source\openexr\ilmthread\ilmthread.cpp(67): note: деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+  IlmThreadMutex.cpp
+  IlmThreadPool.cpp
+  IlmThreadSemaphore.cpp
+  IexMathFloatExc.cpp
+  Создание кода...
+ImathShear.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+ImathBox.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+  OpenEXR.2013.vcxproj -> E:\srcs\FreeImage\Source\OpenEXR\.\Win32\Debug\OpenEXR.lib

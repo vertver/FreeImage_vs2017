@@ -1,0 +1,55 @@
+﻿  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jpeg.c
+  tif_luv.c
+  tif_lzma.c
+  tif_lzw.c
+  Создание кода...
+  Компиляция...
+  tif_next.c
+  tif_ojpeg.c
+e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(618): warning C4477: "fprintf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uint64"
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(618): note: рекомендуется использовать "%llu" в строке форматирования
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(618): note: рекомендуется использовать "%I64u" в строке форматирования
+e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(620): warning C4477: "fprintf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uint64"
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(620): note: рекомендуется использовать "%llu" в строке форматирования
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(620): note: рекомендуется использовать "%I64u" в строке форматирования
+e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(625): warning C4477: "fprintf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uint64"
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(625): note: рекомендуется использовать "%llu" в строке форматирования
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(625): note: рекомендуется использовать "%I64u" в строке форматирования
+e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(632): warning C4477: "fprintf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uint64"
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(632): note: рекомендуется использовать "%llu" в строке форматирования
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(632): note: рекомендуется использовать "%I64u" в строке форматирования
+e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(639): warning C4477: "fprintf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "uint64"
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(639): note: рекомендуется использовать "%llu" в строке форматирования
+  e:\srcs\freeimage\source\libtiff4\tif_ojpeg.c(639): note: рекомендуется использовать "%I64u" в строке форматирования
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_write.c
+  tif_zip.c
+  Создание кода...
+  LibTIFF4.2013.vcxproj -> E:\srcs\FreeImage\Source\LibTIFF4\.\Win32\Debug\LibTIFF4.lib
